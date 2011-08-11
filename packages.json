@@ -1,0 +1,17 @@
+{
+	"schema_version": "1.0",
+	"packages": [
+		{
+			"name": "Transmit Docksend",
+			"description": "Send the currently opened file to Transmit",
+			"platforms": {
+				"osx": [
+					{
+						"version": "1.0.0",
+						"url": "https://github.com/jeffturcotte/sublime_transmit_docksend"
+					}
+				]
+			}
+		}
+	]
+}
