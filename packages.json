@@ -3,7 +3,9 @@
 	"packages": [
 		{
 			"name": "Transmit Docksend",
+			"author": "jeffturcotte",
 			"description": "Send the currently opened file to Transmit",
+			"homepage": "https://github.com/jeffturcotte/sublime_transmit_docksend",
 			"platforms": {
 				"osx": [
 					{
